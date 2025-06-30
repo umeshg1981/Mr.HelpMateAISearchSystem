@@ -38,7 +38,7 @@ The Mr.HelpMate AI system employs a Retrieval-Augmented Generation (RAG) archite
 
 ![systemdesign](RAGSystemDesign.png)
 
-### 4. Prerequisites
+## 4. Prerequisites
 - Python 3
 - OpenAI API Key(you have to add openai api key in the empty txt file (OpenAI_API_Key))
 
