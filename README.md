@@ -87,9 +87,5 @@ To get started with HelpMate AI Search System, follow these steps:
 User Query / Response example screenshot:
 
 ![Screenshot1](Screenshot1.png)
-
-
 ![Screenshot2](Screenshot2.png)
-
-
 ![Screenshot3](Screenshot3.png)
