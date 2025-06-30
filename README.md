@@ -54,7 +54,7 @@ To get started with HelpMate AI Search System, follow these steps:
 2. **Launch Jupyter Lab from Anaconda Navigator**
    - Open Notebook "UmeshGoyal_HelpmateAI.ipynb"
    - Open "OpenAI_API_Key.txt" and Replace with correct OpenAI API key.
-   - 
+     
 3. **Install dependencies:**
 ```   
 # Install the following packages incase they're not loaded already
@@ -65,7 +65,8 @@ To get started with HelpMate AI Search System, follow these steps:
 # !pip install --upgrade openai
 # !pip install --upgrade sentence-transformers
 # !pip install --upgrade tf-keras
-# !pip install --upgrade "posthog<3.0.0" # To remove ChromaDB error for positional arguments (3 instead of 1)```
+# !pip install --upgrade "posthog<3.0.0" # To remove ChromaDB error for positional arguments (3 instead of 1)
+```
 
 
 ## 5. Challenges Faced
